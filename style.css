@@ -1,0 +1,169 @@
+* {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  text-align: center;
+}
+
+h3 {
+  color: #3c184e;
+  font-size: 36px;
+  text-align: center;
+  margin: 30px 0 45px 0;
+}
+.container {
+  padding: 120px 80px;
+}
+
+/* BANNER INICIO */
+.container-nome-logo {
+  max-width: 250px;
+}
+.banner-topo {
+  background-image: url("img/banner-topo.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.nome-pet-shop {
+  font-size: 35px;
+  margin: 0 0 5px 0;
+}
+.nome-pet-shop img {
+  width: 30px;
+  margin-right: 5px;
+}
+
+.slogan-pet {
+  font-size: 14px;
+  text-align: center;
+  margin: 0;
+}
+
+.container-titulo-topo {
+  max-width: 1024px;
+  border-radius: 10px;
+  padding: 40px;
+  margin: 70px auto 0 auto;
+  background-color: #ffffffc4;
+  box-shadow: 0 8px 32px #1f26875e;
+}
+
+.titulo-topo {
+  color: #3c184e;
+  font-size: 60px;
+  text-align: center;
+  font-weight: 800;
+  margin: 0 0 40px 0;
+}
+
+.link-fale-comigo {
+  width: 200px;
+  padding: 10px 25px 10px 25px;
+  margin: 0 auto;
+  border-radius: 10px;
+  background-color: #3c184e;
+  font-size: 20px;
+  text-align: center;
+}
+
+.link-fale-comigo a {
+  color: white;
+}
+.link-fale-comigo img {
+  margin: 0 0 0 5px;
+  width: 20px;
+}
+/* BANNER FIM */
+
+/* SERVIÇOS COMEÇO */
+
+.container-servicos .container-lista {
+  max-width: 800px;
+  margin: 0 auto 50px auto;
+  color: #3c184e;
+}
+
+.container-servicos .container-lista li {
+  font-size: 20px;
+  margin: 0 0 20px 0;
+}
+
+.container-servicos .container-lista span {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.container-servicos .container-imagens {
+  max-width: 800px;
+  margin: 0 auto 0 auto;
+  align-content: center;
+}
+
+.container-servicos .container-imagens img {
+  border-radius: 5px;
+  box-shadow: 3px 6px 10px 6px #0000005c;
+}
+/* SERVIÇOS FIM */
+/* CHAMADA COMEÇO */
+.container-chamada {
+  background-color: #3c184e;
+  text-align: center;
+}
+
+.container-chamada p {
+  max-width: 800px;
+  margin: 0 auto 50px;
+  font-size: 40px;
+  color: #fff;
+}
+
+.container-chamada span {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.container-redes a {
+  margin: 0 20px;
+}
+.container-redes img {
+  width: 50px;
+  height: 50px;
+  margin: 0 20px;
+  align-content: center;
+}
+/* CHAMADA fim  */
+/* MARCAS COMEÇO */
+.container-marcas {
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+.container-marcas img {
+  width: 140px;
+  height: 140px;
+  margin: 0 15px 0 15px;
+}
+/* MARCAS fim */
+
+.onde-estamos p{
+    font-size: 20px;
+    color: #3c184e;
+    margin: 0 0 45px 0;
+}
+
+iframe{
+    width: 800px;
+    height: 450px;
+    margin-bottom: 40px;
+}
+
+.container-rodape{
+    font-size: 12px;
+    background-color: #3c184e;
+    color: #fff;
+    padding: 40px;
+
+}
